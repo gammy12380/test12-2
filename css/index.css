@@ -1,1 +1,10 @@
-/* No CSS *//*# sourceMappingURL=index.css.map */
+.box .a {
+  color: pink;
+  font-size: 4rem;
+}
+
+.box .b {
+  color: yellow;
+  font-size: 4rem;
+}
+/*# sourceMappingURL=index.css.map */
